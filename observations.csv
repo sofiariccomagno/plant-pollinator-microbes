@@ -1,0 +1,167 @@
+﻿date,time,site,flower_species,pollinator_species,collected,temperature,humidity,wind_speed,pressure,solar_radiation,uv_index
+28/05/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,13,65,12,1026,522,3
+28/05/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,13,65,12,1026,522,3
+28/05/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,13,65,12,1026,522,3
+28/05/2022,12:00,Rookery Slope,Trifolium repens,Bombus pascuorum,1,16,47,12,1026,278,5
+28/05/2022,12:00,Rookery Slope,Lotus corniculatus,Bombus pascuorum,1,16,47,12,1026,278,5
+28/05/2022,15:00,Rookery Slope,Vicia sativa,Apis mellifera,1,17,45,11,1024,401,4
+28/05/2022,15:00,Rookery Slope,Glechoma hederacea,Bombus hortorum,0,17,45,11,1024,401,4
+28/05/2022,15:00,Rookery Slope,Glechoma hederacea,Bombus hortorum,1,17,45,11,1024,401,4
+27/05/2022,09:00,Herons Brook Meadow,Veronica chamaedrys,Apis mellifera,1,15,64,18,1025,640,6
+27/05/2022,12:00,Herons Brook Meadow,Veronica chamaedrys,Bombus hortorum,1,17,51,18,1025,828,7
+27/05/2022,12:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,0,17,51,18,1025,828,7
+27/05/2022,12:00,Herons Brook Meadow,Veronica chamaedrys,Bombus hortorum,0,17,51,18,1025,828,7
+27/05/2022,15:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,0,19,42,17,1025,770,7
+27/05/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus pascuorum,0,19,42,17,1025,770,7
+27/05/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus pascuorum,1,19,42,17,1025,770,7
+14/06/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,17,56,11,1023,554,4
+14/06/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,17,56,11,1023,554,4
+14/06/2022,09:00,Rookery Slope,Trifolium repens,Bombus pascuorum,0,17,56,11,1023,554,4
+14/06/2022,12:00,Rookery Slope,Glechoma hederacea,Bombus hortorum,0,21,46,11,1021,867,7
+14/06/2022,12:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,21,46,11,1021,867,7
+14/06/2022,12:00,Rookery Slope,Rubus fruticosus,Bombus terrestris/lucorum,0,21,46,11,1021,867,7
+14/06/2022,12:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,21,46,11,1021,867,7
+14/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,23,39,12,1020,800,8
+14/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,23,39,12,1020,800,8
+14/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,23,39,12,1020,800,8
+14/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,23,39,12,1020,800,8
+14/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,23,39,12,1020,800,8
+14/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,23,39,12,1020,800,8
+14/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,23,39,12,1020,800,8
+14/06/2022,15:00,Rookery Slope,Trifolium repens,Bombus pascuorum,0,23,39,12,1020,800,8
+16/06/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,20,58,4,1022,485,5
+16/06/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,20,58,4,1022,485,5
+16/06/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,20,58,4,1022,485,5
+16/06/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,20,58,4,1022,485,5
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,26,36,15,1022,821,8
+16/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,26,36,15,1022,821,8
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+16/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,27,31,8,1021,686,7
+28/06/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,17,64,21,1019,181,2
+28/06/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,17,64,21,1019,181,2
+28/06/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,17,64,21,1019,181,2
+28/06/2022,09:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,0,17,64,21,1019,181,2
+28/06/2022,12:00,Rookery Slope,Pentaglottis sempervirens,Apis mellifera,1,19,55,28,1018,390,4
+28/06/2022,12:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,19,55,28,1018,390,4
+28/06/2022,12:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,19,55,28,1018,390,4
+28/06/2022,12:00,Rookery Slope,Rubus fruticosus,Bombus pascuorum,0,19,55,28,1018,390,4
+28/06/2022,12:00,Rookery Slope,Rubus fruticosus,Bombus pascuorum,0,19,55,28,1018,390,4
+28/06/2022,12:00,Rookery Slope,Trifolium repens,Osmia caerulescens,1,19,55,28,1018,390,4
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Bombus terrestris/lucorum,1,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Bombus pascuorum,1,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,1,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Bombus pascuorum,0,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Apis mellifera,0,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Bombus pascuorum,0,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Bombus pascuorum,0,21,44,27,1017,819,8
+28/06/2022,15:00,Rookery Slope,Rubus fruticosus,Bombus pratorum,1,21,44,27,1017,819,8
+29/06/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,15,89,13,1012,37,1
+29/06/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,15,89,13,1012,37,1
+29/06/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,15,89,13,1012,37,1
+29/06/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,15,89,13,1012,37,1
+29/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,1,17,73,16,1012,200,2
+29/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,17,73,16,1012,200,2
+29/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,17,73,16,1012,200,2
+29/06/2022,12:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,0,17,73,16,1012,200,2
+29/06/2022,12:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,0,17,73,16,1012,200,2
+29/06/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,1,20,57,23,1012,318,3
+29/06/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,1,20,57,23,1012,318,3
+29/06/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus pascuorum,1,20,57,23,1012,318,3
+29/06/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,1,20,57,23,1012,318,3
+29/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,20,57,23,1012,318,3
+29/06/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,0,20,57,23,1012,318,3
+29/06/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,0,20,57,23,1012,318,3
+29/06/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,0,20,57,23,1012,318,3
+29/06/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,0,20,57,23,1012,318,3
+10/07/2022,09:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,19,65,10,1028,512,5
+10/07/2022,09:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,19,65,10,1028,512,5
+10/07/2022,09:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,19,65,10,1028,512,5
+10/07/2022,12:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,24,49,9,1027,828,8
+10/07/2022,12:00,Rookery Slope,Lotus corniculatus,Bombus pascuorum,0,24,49,9,1027,828,8
+10/07/2022,12:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,24,49,9,1027,828,8
+10/07/2022,12:00,Rookery Slope,Lotus corniculatus,Bombus pascuorum,1,24,49,9,1027,828,8
+10/07/2022,12:00,Rookery Slope,Jacobaea vulgaris,Megachile willughbiella,1,24,49,9,1027,828,8
+10/07/2022,12:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,1,24,49,9,1027,828,8
+10/07/2022,12:00,Rookery Slope,Cirsium vulgare,Megachile centecularis,1,24,49,9,1027,828,8
+10/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,27,35,9,1026,860,9
+10/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,27,35,9,1026,860,9
+10/07/2022,15:00,Rookery Slope,Lotus corniculatus,Bombus pascuorum,0,27,35,9,1026,860,9
+10/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,27,35,9,1026,860,9
+10/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,1,27,35,9,1026,860,9
+10/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,1,27,35,9,1026,860,9
+10/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,1,27,35,9,1026,860,9
+10/07/2022,15:00,Rookery Slope,Lotus corniculatus,Bombus pascuorum,1,27,35,9,1026,860,9
+10/07/2022,15:00,Rookery Slope,Lotus corniculatus,Bombus pascuorum,1,27,35,9,1026,860,9
+13/07/2022,09:00,Herons Brook Meadow,Cirsium palustre,Bombus pascuorum,0,21,59,9,1022,246,2
+13/07/2022,09:00,Herons Brook Meadow,Cirsium palustre,Bombus pascuorum,0,21,59,9,1022,246,2
+13/07/2022,09:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,1,21,59,9,1022,246,2
+13/07/2022,09:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,1,21,59,9,1022,246,2
+13/07/2022,12:00,Herons Brook Meadow,Cirsium palustre,Bombus pascuorum,0,24,54,13,1023,468,5
+13/07/2022,12:00,Herons Brook Meadow,Cirsium palustre,Bombus pascuorum,0,24,54,13,1023,468,5
+13/07/2022,12:00,Herons Brook Meadow,Cirsium palustre,Bombus pascuorum,1,24,54,13,1023,468,5
+13/07/2022,12:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,1,24,54,13,1023,468,5
+13/07/2022,12:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,1,24,54,13,1023,468,5
+13/07/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,0,26,44,11,1022,403,4
+13/07/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus pascuorum,1,26,44,11,1022,403,4
+13/07/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,1,26,44,11,1022,403,4
+13/07/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,1,26,44,11,1022,403,4
+13/07/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Bombus terrestris/lucorum,1,26,44,11,1022,403,4
+16/07/2022,12:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,23,45,6,1025,810,8
+16/07/2022,12:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,23,45,6,1025,810,8
+16/07/2022,12:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,1,23,45,6,1025,810,8
+16/07/2022,12:00,Rookery Slope,Lotus corniculatus,Bombus pascuorum,1,23,45,6,1025,810,8
+16/07/2022,12:00,Rookery Slope,Lotus corniculatus,Bombus pascuorum,1,23,45,6,1025,810,8
+16/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,26,32,8,1025,745,7
+16/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,26,32,8,1025,745,7
+16/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,0,26,32,8,1025,745,7
+16/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,1,26,32,8,1025,745,7
+16/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,1,26,32,8,1025,745,7
+16/07/2022,15:00,Rookery Slope,Jacobaea vulgaris,Apis mellifera,1,26,32,8,1025,745,7
+17/07/2022,09:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,0,22,53,10,1026,454,5
+17/07/2022,09:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,0,22,53,10,1026,454,5
+17/07/2022,09:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,0,22,53,10,1026,454,5
+17/07/2022,12:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,0,27,36,18,1025,786,8
+17/07/2022,12:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,1,27,36,18,1025,786,8
+17/07/2022,12:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,1,27,36,18,1025,786,8
+17/07/2022,15:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,0,29,28,18,1024,687,7
+17/07/2022,15:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,0,29,28,18,1024,687,7
+17/07/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,1,29,28,18,1024,687,7
+17/07/2022,15:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,1,29,28,18,1024,687,7
+17/07/2022,15:00,Herons Brook Meadow,Cirsium palustre,Apis mellifera,1,29,28,18,1024,687,7
+17/07/2022,15:00,Herons Brook Meadow,Rubus fruticosus,Apis mellifera,1,29,28,18,1024,687,7
+17/07/2022,15:00,Herons Brook Meadow,Cirsium palustre,Bombus terrestris/lucorum,1,29,28,18,1024,687,7
